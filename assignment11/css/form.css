@@ -29,5 +29,12 @@ label {
 }
 
 
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 2px 2px 10px black;
+  }
+  
+
 /* end of form css */
 	
